@@ -1,0 +1,27 @@
+{
+  "name": "@capsuul/prettier-config",
+  "version": "1.0.0",
+  "description": "A generic TypeScript prettier config (prettierrc)",
+  "keywords": [
+    "typescript",
+    "prettier",
+    "prettierrc",
+    "nodejs",
+    "react",
+    "react-native"
+  ],
+  "author": "Louis SCHNEIDER <louis@schne.id>",
+  "license": "MIT",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/capsuul/prettier-config.git"
+  },
+  "homepage": "https://github.com/capsuul/prettier-config#readme",
+  "bugs": {
+    "url": "https://github.com/capsuul/prettier-config/issues"
+  },
+  "peerDependencies": {
+    "prettier": ">= 2"
+  }
+}
